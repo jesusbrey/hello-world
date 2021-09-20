@@ -1,7 +1,0 @@
-tfe_hostname  = "app.terraform.io"
-tfe_token     = "HEPy1S2NZX0xRw.atlasv1.yK2jHLOK534Hy2WN6dahZyEjmP4zyZywLsPJ1ZuNXBhpzVfTzPz4tBJMQEM17G3IGpM"
-org_name      = "eacmanager-test"
-tfe_org_email = "jesusbrey@gmail.com"
-ghe_token     = "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"
-ghe_api_url   = "https://api.github.com"
-ghe_http_url  = "https://github.com"
