@@ -1,1 +1,6 @@
 https://santander.service-now.com/incident.do?sys_id=26ee17878762fcd4016e64670cbb352b&sysparm_stack=incident_list.do?sysparm_query=active=true
+Buenas,
+como indica helpdesk la resolución de DNS se realiza mediante proxy,
+por lo tanto ninguna de las dos opciones que nos comentáis es valida,
+si la VDD no llega se debe solicitar la apertura de reglas a comunicaciones indicando origen y destino ,
+saludos.
